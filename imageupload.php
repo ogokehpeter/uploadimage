@@ -8,9 +8,9 @@ require 'Api.php';
 
 
 \Cloudinary::config(array( 
-  "cloud_name" => "dnuraq8oa", 
-  "api_key" => "274545435744652", 
-  "api_secret" => "jflXJqU3PYSSqtRUAoVz3F1D4dU" 
+  "cloud_name" => "dollargames", 
+  "api_key" => "275525815364644", 
+  "api_secret" => "FHdfV6UPn7A2rbNVNbNJX-oFquE" 
 ));
 
 $target_dir = "uploads/";
